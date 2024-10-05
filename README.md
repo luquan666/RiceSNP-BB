@@ -1,4 +1,4 @@
-# RiceSNP-ABST 
+# RiceSNP-BB
 
 ## Introduction
 
@@ -18,7 +18,10 @@ cd ./Feature/data/Benchmark datasets
 ```shell
 cd ./Feature/data/Independent dataset
 ```
-
+#### Rape and Sorghum datasets
+```shell
+cd ./Feature/data/Rape and Sorghum datasets
+```
 ## Feature represention and selection
 
 `Feature/Onehot.py`,`Feature/DNA2vec.py`,`Feature/DNABERT.py`,and `Feature/DNAshape.py` are four feature extraction methods. <br>
