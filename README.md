@@ -56,4 +56,4 @@ pip install Modelrequirements.txt
 
 ## Contact
 
-Please feel free to contact us if you need any help (E-mail: quanlu@stu.ahau.edu.cn).
+Please feel free to contact us if you need any help (E-mail: gaoyujia@ahau.edu.cn).
