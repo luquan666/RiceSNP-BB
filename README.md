@@ -3,9 +3,9 @@
 ## Introduction
 
 ```text
-RiceSNP-ABST: A Deep Learning Approach to Identify Abiotic Stress-Associated Single Nucleotide Polymorphisms in Rice
+RiceSNP-BB: an automated modeling CNN framework for interpretable predicting Bacterial Blight resistance SNPs in rice via integrated sequence and structural representation
 ```
-In this paper, a model called RiceSNP-ABST is proposed for predicting ABST-SNPs in rice, utilizing a novel strat-egy for constructing negative samples. Firstly, six benchmark datasets were generated using three methods for con-structing negative samples across two lengths of DNA sequences. Secondly, four feature encoding methods were proposed based on DNA sequence fragments, followed by feature selection. Finally, Convolutional neural networks (CNNs) with residual connections were used to determine whether the sequences were ABST-SNPs in rice. 
+RiceSNP-BB is a deep learning framework designed for genome-wide interpretable prediction of rice Bacterial Blight (BB) resistance SNPs. It effectively captures informative multimodal DNA sequence features using four distinct encoding methods, leveraging only BB-resistant SNP sites as input. Additionally, it incorporates an encoder layer and automated CNN-based modeling to learn nucleotide distributions based on the context of SNP loci.
 
 ## Data
 
