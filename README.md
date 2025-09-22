@@ -1,11 +1,11 @@
-# RiceSNP-BB
+# DeepBBR-SNP
 
 ## Introduction
 
 ```text
-RiceSNP-BB: an automated modeling CNN framework for interpretable predicting Bacterial Blight resistance SNPs in rice via integrated sequence and structural representation
+Deep Learning-Based Identification of SNP Associated with Bacterial Blight Resistance in Rice
 ```
-RiceSNP-BB is a deep learning framework designed for genome-wide interpretable prediction of rice Bacterial Blight (BB) resistance SNPs. It effectively captures informative multimodal DNA sequence features using four distinct encoding methods, leveraging only BB-resistant SNP sites as input. Additionally, it incorporates an encoder layer and automated CNN-based modeling to learn nucleotide distributions based on the context of SNP loci.
+DeepBBR-SNP is a deep learning framework designed for genome-wide interpretable prediction of rice Bacterial Blight (BB) resistance SNPs. It effectively captures informative multimodal DNA sequence features using four distinct encoding methods, leveraging only BB-resistant SNP sites as input. Additionally, it incorporates an encoder layer and automated CNN-based modeling to learn nucleotide distributions based on the context of SNP loci.
 
 ## Data
 
